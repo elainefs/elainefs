@@ -3,10 +3,12 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/elainefs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elainefs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elainefs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elainefs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elainefs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div align="center" style="display: inline_block"><br>
+<!-- <div align="center" style="display: inline_block"><br> -->
+  <div align="center">
   <img align="center" alt="Elaine-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elaine-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Elaine-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
