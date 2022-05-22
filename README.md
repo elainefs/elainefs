@@ -1,4 +1,14 @@
-### Hi there 👋
+### Oie!! Eu me chamo Elaine 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainefs&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainefs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<!-- Themas: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
+
 
 <!--
 **elainefs/elainefs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
