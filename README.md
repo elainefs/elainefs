@@ -1,27 +1,25 @@
-### Oie!! Eu me chamo Elaine 👋
-### Sou apaixonada por tecnologia ♥
+# Oie!! Eu me chamo Elaine 👋 Sou apaixonada por tecnologia ♥
 
 <div align="center" style="display: inline-block" width="50%">
   <a href="https://github.com/elainefs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elainefs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elainefs&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>  
+</div><br>
   
-<!-- <div align="center" style="display: inline-block"><br> -->
-  <div align="center">
+<div align="center">
+  <img align="center" alt="Elaine-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Elaine-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elaine-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Elaine-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Elaine-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Elaine-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </div><br>
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elaineferreiras)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elainefs_)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/elainefs_)
-[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/elainefs_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://debian.org/index.pt.html)
+[![Website Badge](https://img.shields.io/badge/-elaineferreira.com.br-0d3d68?style=flat&logo=Google-Chrome&logoColor=white&link=https://felipecastrosales.com/)](https://elaineferreira.com.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elaineferreiras)
+[![Contato](https://img.shields.io/badge/Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@elaineferreira.com.br)
+  
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://behance.net/elainefs_)
+[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/elainefs_)
   
   
 ### Me contrate :)
