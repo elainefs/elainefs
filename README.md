@@ -1,4 +1,4 @@
-## Oie!! Eu me chamo Elaine 👋 Sou apaixonada por tecnologia ♥
+## Oie!! Eu me chamo Elaine 👋 
 
 <div align="center" style="display: inline-block">
   <a href="https://github.com/elainefs">
