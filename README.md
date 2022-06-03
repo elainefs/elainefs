@@ -19,11 +19,10 @@
 [![Contato](https://img.shields.io/badge/Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@elaineferreira.com.br)
   
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white)](https://behance.net/elainefs_)
-[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/elainefs_)
+<!-- [![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/elainefs_) -->
   
   
 ### Me contrate :)
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/elaineferreiras)
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/~01dfa96c4b4fd3005d)
 
 
