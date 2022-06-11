@@ -22,7 +22,7 @@
 <!-- [![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/elainefs_) -->
   
   
-### Me contrate :)
+### Hire me :)
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/~01dfa96c4b4fd3005d)
 
 
