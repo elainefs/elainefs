@@ -1,4 +1,4 @@
-## Oie!! Eu me chamo Elaine 👋 
+## Hi there, I am Elaine 👋 
 
 <div align="center" style="display: inline-block">
   <a href="https://github.com/elainefs">
