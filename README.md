@@ -7,14 +7,14 @@
 </div><br>
   
 <div align="center">
-  <img align="center" alt="Elaine-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+<!--   <img align="center" alt="Elaine-WordPress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> -->
   <img align="center" alt="Elaine-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elaine-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Elaine-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Elaine-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<!--   <img align="center" alt="Elaine-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -->
 </div><br>
 
-
+<!--
 <div align="center" style="display: inline-block">
   <a href="https://elaineferreira.com.br">
   <img src="https://img.shields.io/badge/-elaineferreira.com.br-0d3d68?style=flat&logo=Google-Chrome&logoColor=white&link=https://felipecastrosales.com/"/>
@@ -23,6 +23,7 @@
   <a href="mailto:contato@elaineferreira.com.br">
   <img src="https://img.shields.io/badge/Contato-D14836?style=flat&logo=gmail&logoColor=white"/>
 </div><br>
+-->
 
 
 <!--
