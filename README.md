@@ -40,9 +40,9 @@
 ---
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats-elainefs.vercel.app/api?username=elainefs&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs"/>
-<img height="160em" src="https://github-readme-stats-elainefs.vercel.app/api/top-langs/?username=elainefs&layout=compact&langs_count=6&theme=tokyonight"/>
-<img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=elainefs&theme=tokyonight" />
-<img height="130em" src="https://github-readme-stats-elainefs.vercel.app/api/wakatime?username=elainefs&theme=tokyonight&hide=markdown" /> <br>
+<img height="120em" src="https://github-readme-stats-elainefs.vercel.app/api?username=elainefs&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs"/>
+<img height="120em" src="https://github-readme-stats-elainefs.vercel.app/api/top-langs/?username=elainefs&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="120em" src="https://github-readme-streak-stats.herokuapp.com?user=elainefs&theme=tokyonight" />
+<img height="120em" src="https://github-readme-stats-elainefs.vercel.app/api/wakatime?username=elainefs&theme=tokyonight&hide=markdown" /> <br>
 </div>
 
