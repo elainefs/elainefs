@@ -1,14 +1,14 @@
 # Hi there, I'm Elaine 👋 
 
-[![](https://img.shields.io/badge/Mastodon-2F0C7A?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@elainefs)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/elainefs_)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elaineferreiras/)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@elaineferreira.com.br)
+<a href="https://mastodon.social/@elainefs" target="_blank"><img src="https://img.shields.io/badge/Mastodon-2F0C7A?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
+<a href="https://twitter.com/elainefs_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/elaineferreiras/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="mailto:contato@elaineferreira.com.br" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 
 ## About me:
 🎓 I'm pursuing a Bachelor's degree in Software Engineering  
 👩‍💻 Future FullStack developer  
-✍️ I share a little about what I learn on my [blog](https://elaineferreira.com.br/blog)
+✍️ I share a little about what I learn on my [blog](https://elaineferreira.com.br)
 
 ---
 
