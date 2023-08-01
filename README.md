@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats-elainefs.vercel.app/api?username=elainefs&count_private=true&show_icons=true&theme=tokyonight" alt="Elaine Ferreira's GitHub Stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=elainefs&count_private=true&show_icons=true&theme=tokyonight" alt="Elaine Ferreira's GitHub Stats"/>
 <img height="150em" src="https://github-readme-stats-elainefs.vercel.app/api/top-langs/?username=elainefs&layout=compact&langs_count=6&theme=tokyonight" alt="Most Used Languages"/>
 <img height="150em" src="https://github-readme-stats-elainefs.vercel.app/api/wakatime?username=elainefs&theme=tokyonight&hide=markdown&range=last_7_days" alt="Wakatime Stats"/>
 </div>
