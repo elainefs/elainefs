@@ -8,7 +8,6 @@
 ## About me:
 🎓 I'm pursuing a Bachelor's degree in Software Engineering  
 👩‍💻 Future FullStack developer  
-✍️ I share a little about what I learn on my [blog](https://elaineferreira.com.br)
 
 ---
 
