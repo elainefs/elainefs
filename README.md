@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/elainefs"><img height="200em" src="https://github-readme-stats-elainefs.vercel.app/api?username=elainefs&count_private=true&show_icons=true&theme=tokyonight" alt="Elaine Ferreira's GitHub Stats"/></a>
-  <a href="https://github.com/elainefs"><img height="200em" src="https://github-readme-stats-elainefs.vercel.app/api/top-langs/?username=elainefs&layout=compact&langs_count=6&theme=tokyonight" alt="Most Used Languages"/></a>  
+  <a href="https://github.com/elainefs"><img height="300em" src="https://github-readme-stats-elainefs.vercel.app/api?username=elainefs&count_private=true&show_icons=true&theme=tokyonight" alt="Elaine Ferreira's GitHub Stats"/></a>
+  <a href="https://github.com/elainefs"><img height="300em" src="https://github-readme-stats-elainefs.vercel.app/api/top-langs/?username=elainefs&layout=compact&langs_count=6&theme=tokyonight" alt="Most Used Languages"/></a>  
   <a href="https://wakatime.com/@elainefs" target="_blank"><img height="300em" src="https://github-readme-stats-elainefs.vercel.app/api/wakatime?username=elainefs&theme=tokyonight&hide=markdown,ezhil&range=last_7_days" alt="Wakatime Stats"/></a>
 </div>
