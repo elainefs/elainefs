@@ -7,7 +7,7 @@
 ## About me
 🎓 I'm studying a bachelor's degree in Software Engineering at UEPA  
 👩‍💻 I'm web developer      
-✍️ I share some of I learn on my [blog](https://elaineferreira.com.br/blog)  
+✍️ I share some of I learn on my [blog](https://elaineferreira.com.br)  
 🔭 I'm always looking for new things to learn  
 🌱 I love reading and studying  
 ⚡ I'm currently learning Nodejs
