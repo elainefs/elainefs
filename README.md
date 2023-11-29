@@ -10,7 +10,7 @@
 ✍️ I share some of I learn on my [blog](https://elaineferreira.com.br)  
 🔭 I'm always looking for new things to learn  
 🌱 I love reading and studying  
-⚡ I'm currently learning Nodejs
+⚡ I'm currently learning Nodejs and Angular
 
 ## Skills and Tools
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
