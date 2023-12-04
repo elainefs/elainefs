@@ -9,7 +9,7 @@
 👩‍💻 I'm web developer      
 ✍️ I share some of I learn on my [blog](https://elaineferreira.com.br)  
 🔭 I'm always looking for new things to learn  
-🌱 I love reading
+📚 I love reading  
 ⚡ I'm currently learning Nodejs and Angular
 
 ## Skills and Tools
