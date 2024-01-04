@@ -30,6 +30,6 @@
 <div align="center">
   <a href="https://github.com/elainefs"><img height="150em" src="https://github-readme-stats-elainefs.vercel.app/api?username=elainefs&count_private=true&show_icons=true&theme=tokyonight" alt="Elaine Ferreira's GitHub Stats"/></a>
   <a href="https://github.com/elainefs"><img height="150em" src="https://github-readme-stats-elainefs.vercel.app/api/top-langs/?username=elainefs&layout=compact&langs_count=6&theme=tokyonight" alt="Most Used Languages"/></a>  
-  <a href="https://wakatime.com/@elainefs" target="_blank"><img height="150em" src="https://github-readme-stats-elainefs.vercel.app/api/wakatime?username=elainefs&theme=tokyonight&hide=markdown,ezhil,other,tsconfig,gdscript&range=last_7_days" alt="Wakatime Stats"/></a>
+  <a href="https://wakatime.com/@elainefs" target="_blank"><img height="150em" src="https://github-readme-stats-elainefs.vercel.app/api/wakatime?username=elainefs&theme=tokyonight&layout=compact&hide=markdown,ezhil,other,tsconfig,gdscript&range=last_7_days" alt="Wakatime Stats"/></a>
   <a href="https://github.com/elainefs"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=elainefs&theme=tokyonight" alt="Streak Stats" /></a>
 </div>
