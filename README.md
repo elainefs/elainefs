@@ -8,7 +8,6 @@
 
 🎓 I'm studying a bachelor's degree in Software Engineering  
 👩‍💻 I'm software developer      
-✍️ I share some of I learn on my [blog](https://elaineferreira.com.br)  
 🔭 I'm always looking for new things to learn  
 ⚡ I'm currently learning PHP and Angular  
 📚 I love reading  
