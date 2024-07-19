@@ -6,15 +6,14 @@
 
 ## About
 
-🎓 I'm studying a bachelor's degree in Software Engineering  
-👩‍💻 I'm software developer      
+🎓 I'm studying a bachelor's degree in Software Engineering        
 🔭 I'm always looking for new things to learn  
-⚡ I'm currently learning PHP and Angular  
+⚡ I'm currently learning Node.js  
 📚 I love reading  
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,python,bootstrap,mysql,sqlite,jquery,linux,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,linux,git)
 
 ## Stats
 
