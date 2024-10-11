@@ -8,12 +8,11 @@
 
 🎓 I'm studying a bachelor's degree in Software Engineering        
 🔭 I'm always looking for new things to learn  
-⚡ I'm currently learning Node.js  
-📚 I love reading  
+📚 Book lover  
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,bootstrap,mysql,linux,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,bootstrap,mysql,linux,git)
 
 ## Stats
 
