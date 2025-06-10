@@ -6,7 +6,8 @@
 
 ## About
 
-🎓 I'm studying a bachelor's degree in Software Engineering        
+🎓 I'm studying a bachelor's degree in Software Engineering    
+👩‍💻 I'm a software developer  
 🔭 I'm always looking for new things to learn  
 📚 Book lover  
 
