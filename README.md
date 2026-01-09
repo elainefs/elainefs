@@ -13,7 +13,7 @@
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,bootstrap,mysql,postgres,linux,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,bootstrap,mysql,postgres,linux,docker,git)
 
 ## Stats
 
